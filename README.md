@@ -18,6 +18,6 @@ Github Apis for issue related queries.
 Further Enhancements
 - Decoupling server and client code, validation and control logic
 - Proper Handling of validation and Edge cases and showing error message throughout application layer
- - UI enhancements
+- UI enhancements
 - Use of multithreading for performance enhancement while making api calls
 - Server client interaction RESTful manner.
