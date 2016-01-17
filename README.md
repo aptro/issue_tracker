@@ -1,6 +1,7 @@
 # issue_tracker
 GitHub Repo Open Issues
 
+Input format for repos: "https://github.com/openresty/lua-nginx-module/" where :owner-openresty, :repo-lua-nginx-module
 App deployed on Heroku:
 https://gentle-atoll-2581.herokuapp.com/
 
